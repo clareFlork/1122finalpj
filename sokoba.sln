@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34729.46
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sokoba", "sokoba\sokoba.vcxproj", "{1F7658E2-4B3A-4083-AFAE-60C3E5E14E7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F7658E2-4B3A-4083-AFAE-60C3E5E14E7C}.Debug|x64.ActiveCfg = Debug|x64
+		{1F7658E2-4B3A-4083-AFAE-60C3E5E14E7C}.Debug|x64.Build.0 = Debug|x64
+		{1F7658E2-4B3A-4083-AFAE-60C3E5E14E7C}.Debug|x86.ActiveCfg = Debug|Win32
+		{1F7658E2-4B3A-4083-AFAE-60C3E5E14E7C}.Debug|x86.Build.0 = Debug|Win32
+		{1F7658E2-4B3A-4083-AFAE-60C3E5E14E7C}.Release|x64.ActiveCfg = Release|x64
+		{1F7658E2-4B3A-4083-AFAE-60C3E5E14E7C}.Release|x64.Build.0 = Release|x64
+		{1F7658E2-4B3A-4083-AFAE-60C3E5E14E7C}.Release|x86.ActiveCfg = Release|Win32
+		{1F7658E2-4B3A-4083-AFAE-60C3E5E14E7C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4D4F2D5-5AEB-4044-B2E2-D9B7E077BF4E}
+	EndGlobalSection
+EndGlobal
